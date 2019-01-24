@@ -2,10 +2,10 @@ E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\bin\Debug\netcoreapp2.0\Hor
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\bin\Debug\netcoreapp2.0\HorizonWebApi.runtimeconfig.json
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\bin\Debug\netcoreapp2.0\HorizonWebApi.runtimeconfig.dev.json
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\bin\Debug\netcoreapp2.0\HorizonWebApi.dll
-E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\obj\Debug\netcoreapp2.0\HorizonWebApi.csprojAssemblyReference.cache
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\obj\Debug\netcoreapp2.0\HorizonWebApi.csproj.CoreCompileInputs.cache
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\obj\Debug\netcoreapp2.0\HorizonWebApi.AssemblyInfoInputs.cache
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\obj\Debug\netcoreapp2.0\HorizonWebApi.AssemblyInfo.cs
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\bin\Debug\netcoreapp2.0\HorizonWebApi.pdb
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\obj\Debug\netcoreapp2.0\HorizonWebApi.dll
 E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\obj\Debug\netcoreapp2.0\HorizonWebApi.pdb
+E:\My Projects\Horizon\Horizon-webApi\Horizon-webApi\obj\Debug\netcoreapp2.0\HorizonWebApi.csprojAssemblyReference.cache

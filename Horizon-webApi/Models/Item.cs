@@ -10,6 +10,9 @@ namespace HorizonWebApi.Models
         public int itemId { get; set; }
         public String name { get; set; }
         public float unitPrice { get; set; }
+        public String category { get; set; }
         public int stock { get; set; }
+
+        public List<BillItem> BillItems { get; set; }
     }
 }

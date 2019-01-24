@@ -11,9 +11,10 @@ using System;
 namespace HorizonWebApi.Migrations
 {
     [DbContext(typeof(HorizonWebApiContext))]
-    partial class HorizonWebApiContextModelSnapshot : ModelSnapshot
+    [Migration("20190122170539_third migration")]
+    partial class thirdmigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

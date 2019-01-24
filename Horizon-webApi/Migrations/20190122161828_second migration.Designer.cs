@@ -11,9 +11,10 @@ using System;
 namespace HorizonWebApi.Migrations
 {
     [DbContext(typeof(HorizonWebApiContext))]
-    partial class HorizonWebApiContextModelSnapshot : ModelSnapshot
+    [Migration("20190122161828_second migration")]
+    partial class secondmigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -73,8 +74,6 @@ namespace HorizonWebApi.Migrations
                 {
                     b.Property<int>("itemId")
                         .ValueGeneratedOnAdd();
-
-                    b.Property<string>("category");
 
                     b.Property<string>("name");
 
